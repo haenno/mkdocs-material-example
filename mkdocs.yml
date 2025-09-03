@@ -20,15 +20,15 @@
 
 # Project information
 site_name: Material for MkDocs
-site_url: https://mkdocs-material.github.io/examples/
+site_url: https://github.com/haenno/mkdocs-material-example/
 site_author: Martin Donath
 site_description: >-
   An ever-growing collection of self-contained example uses of Material for
   MkDocs that you can download and run to get started quickly
 
 # Repository
-repo_name: mkdocs-material/examples
-repo_url: https://github.com/mkdocs-material/examples
+repo_name: haenno/mkdocs-material-example
+repo_url: https://github.com/haenno/mkdocs-material-example
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2023 Martin Donath
